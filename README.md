@@ -4,3 +4,4 @@
 Her iki programda indirildi ve Gate 9.1 sanal makinede çalıştı. Gate içindeki örnekler de GATE-RTion örneği içinde 3 tane klasör var ve bunlardan DoseActor örneği çalıştırılacak. 
 hello
 vgate@vgate:~/Software/GateContrib/GATE-RTion/DoseActor$
+x
